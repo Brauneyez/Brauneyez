@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ibrahim.Adeniran
 - 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning data analytics.
-- 💞️ I’m looking to collaborate on interesting projects to help people become better at what they do.
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me givenel@gmail.com.
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I love Marvel/MCU.
